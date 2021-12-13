@@ -1,0 +1,13 @@
+// 設定
+$font_color: #444444;
+$border_color: #888888;
+$bg_color: #fff;
+$sub_bg_color: #f4f9ff;
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
